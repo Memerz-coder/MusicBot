@@ -1,0 +1,13 @@
+[tool]
+[tool.poetry]
+authors = ["srino <just-some-bots.github.io/musicbot/>"]
+description = "The original MusicBot for Discord (formerly SexualRhinoceros/MusicBot)"
+name = "MusicBot"
+version = "5.2.0"
+[tool.poetry.dependencies]
+colorlog = "^6.6.0"
+"discord.py" = "^1.7.3"
+flask = "^1.1"
+objgraph = "^3.5.0"
+python = "^3.7"
+youtube_dl = "^2021.6.6"
